@@ -39,9 +39,9 @@ h2 {
 }
 
 .section {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    padding-top: 4rem;
 }
+
 /*-- Specific component styles */
 
 
@@ -141,6 +141,11 @@ h2 {
 .blue-border {
     border-color: var(--highlight-color) !important;
 }
+
+#reserve-game {
+    padding-bottom: 4rem;
+}
+
 /* grid visualisation CSS for testing 
 .container,
 .row {
