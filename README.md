@@ -1,2 +1,5 @@
 # BoardwalkGames2
-Frontend Practice
+Front end practice.
+
+Deployed link: https://benwade37.github.io/Boardwalk-Games-Master/
+
