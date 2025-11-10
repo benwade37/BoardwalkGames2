@@ -146,6 +146,10 @@ h2 {
     padding-bottom: 4rem;
 }
 
+#booking-form {
+    padding-bottom: 4rem; /* Adjust the value as needed */
+}
+
 /* grid visualisation CSS for testing 
 .container,
 .row {
